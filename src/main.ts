@@ -227,7 +227,7 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
             <span>Send me an email</span>
             <span class="button-arrow" aria-hidden="true">↗</span>
           </a>
-          <a class="contact-button contact-button-secondary" href="https://www.linkedin.com/in/thodima-rohith-reddy-83499540b/" target="_blank" rel="noopener noreferrer">
+          <a class="contact-button contact-button-secondary" href="https://www.linkedin.com/in/rohith-reddy-thodima-62a0b9392/" target="_blank" rel="noopener noreferrer">
             <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M6.5 9v9M6.5 6.5v.1M10.5 18v-5c0-2.8 4.5-3 4.5 0v5M10.5 9v9"/></svg>
             <span>LinkedIn</span>
             <span class="button-arrow" aria-hidden="true">↗</span>
